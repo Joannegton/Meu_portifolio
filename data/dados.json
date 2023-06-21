@@ -53,17 +53,17 @@
       },
       {
         "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://joannegton.github.io/meu_contato/",
-        "github": true
-      },
-      {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
         "url": "https://joannegton.github.io/js-developer-pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://joannegton.github.io/js-developer-portfolio",
+        "name": "Curso da DIO para a criação de uma página de portfolio",
+        "url": "https://joannegton.github.io/meu_portifolio/",
+        "github": true
+      },
+      {
+        "name": "Meu contato",
+        "url": "https://joannegton.github.io/meu_contato/",
         "github": true
       }
     ],
